@@ -78,11 +78,3 @@ input {
     text-align: center;
   }
 }
-
-@media only screen and (min-width: 768px) {
-  .carousel-inner {
-    position: static !important;
-    width: auto !important;
-    overflow: visible !important;
-  }
-}
